@@ -1,0 +1,31 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todolistapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\"\u001b[Decho\\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizaira/RESTful-API-Sample.git"
+  },
+  "keywords": [
+    "\"RESTful\"",
+    "\"API\"",
+    "\"Tutorial\""
+  ],
+  "author": "\"\"\u001b[DEliza Ira Ramos\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elizaira/RESTful-API-Sample/issues"
+  },
+  "homepage": "https://github.com/Elizaira/RESTful-API-Sample#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.5.12"
+  }
+}
